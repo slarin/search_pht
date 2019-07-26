@@ -1,3 +1,11 @@
+## Description
+This is a web application build with the React.js framework. It collects search inputs from any user and queries the Unsplash database through their API returning pictures matching the search parameters.
+## Note
+Uploaded here is the raw code, not even the production build. Hence, just copying code from here to run on a browser is futile. It needs dependencies that Create React App provides (basically node modules that I couldn't upload here due to file number restrictions on GitHub (is there a workaround? Probably, but I'm too tired rn))
+However, there's a live version (thanks Heroku!). Link Here: ## https://damp-stream-95476.herokuapp.com/
+So you can check out the raw code here, and the working app in the link provided. Thanks.
+
+## *************************************************************************************************************************************
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
