@@ -1,3 +1,6 @@
+## Live Code
+https://search-photos.surge.sh/
+
 ## Description
 This is a web application build with the React.js framework. It collects search inputs from any user and queries the Unsplash database through their API returning pictures matching the search parameters.
 ## Note
